@@ -10,6 +10,8 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
+In my teaching, I use $$^{13}$$C and CDCl$$_3$$. They're quite helpful.
+
 Heading 1
 ======
 
