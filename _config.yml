@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Fabulous ELSIE!"
+title                    : "The Fabulous ELSIE! (snarkle)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
